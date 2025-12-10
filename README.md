@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Clemens
 
-<!--
-**clemens-pixner/clemens-pixner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently learning Python and building small projects to improve my programming skills step by step.
+My main interests and goals include:
 
-Here are some ideas to get you started:
+* Python development
+* Web scraping and automation
+* Building practical tools for business use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My aim is to turn these skills into real products and services that I can sell in the future.
+
+This GitHub profile documents my progress and experiments while I continue learning.
+
